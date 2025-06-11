@@ -5,8 +5,8 @@
 ### 🔬 Selected Publications & Projects  
 - [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/31a19921acd38cdf7a8c86ec032cef2d-Abstract-Conference.html) **Modeling Mouse Vision** - Multimodal deep learning to predict neural activity in freely moving mice
 - [[Paper]](https://iopscience.iop.org/article/10.1088/1741-2552/ad31c4/meta) **Analyzing Retinal Prosthesis Perception** - Understanding electrically evoked perception
-- [[Repo]](https://github.com/subawocit/cs292f) **Reconstructing Images from fMRI** - Decoding visual stimuli from brain activity using latent diffusion models
-- [[Repo]](https://github.com/subawocit/cs291k) **Detecting Landslides** – Exploring pretraining strategies for satellite imagery landslides detection
+- [[Project]](https://github.com/subawocit/cs292f) **Reconstructing Images from fMRI** - Decoding visual stimuli from brain activity using latent diffusion models
+- [[Project]](https://github.com/subawocit/cs291k) **Detecting Landslides** – Exploring pretraining strategies for satellite imagery landslides detection
 
 ### ☕ Let's Connect!
 [Email](yuchenhou@ucsb.edu) | [Google Scholar](https://scholar.google.com/citations?user=9JT3J6gAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/yuchen-hou-b95083205/) | [Discord](https://discord.gg/cZ58bq8Y)
