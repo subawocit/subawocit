@@ -1,11 +1,11 @@
-## 👋 Hi, I'm Yuchen Hou  
+## 👋 Hi, I'm Yuchen  
 - Ph.D. Student in Computer Science @ Bionic Vision Lab, UC Santa Barbara  
 - Studying Deep Learning, Data Science, and Computational Neuroscience
 
 ### 🔬 Selected Publications & Projects  
 - Modeling Mouse Vision [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/31a19921acd38cdf7a8c86ec032cef2d-Abstract-Conference.html)
 - Analyzing Retinal Prosthesis Perception [[Paper]](https://iopscience.iop.org/article/10.1088/1741-2552/ad31c4/meta)
-- Reconstructing Image from fMRI [[Repo]](https://github.com/subawocit/cs292f)
+- Reconstructing Images from fMRI [[Repo]](https://github.com/subawocit/cs292f)
 - Investigating Pre-training Strategies on Landslides Detection [[Repo]](https://github.com/subawocit/cs291k)
 
 ### ☕ Let's Connect!
