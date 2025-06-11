@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Yuchen Hou 👋 
+
+🎓 Ph.D. Student in Computer Science @ Bionic Vision Lab, UC Santa Barbara  
+🔬 Studying Deep Learning, Data Science, and Computational Neuroscience
+
+Check out my papers
+- 
+Check out my course projects
+- 
 
 <!--
 **subawocit/subawocit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
