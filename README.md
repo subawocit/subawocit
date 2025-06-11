@@ -9,7 +9,7 @@
 - [[Repo]](https://github.com/subawocit/cs291k) **Detecting Landslides** – Exploring pretraining strategies for satellite imagery landslides detection
 
 ### ☕ Let's Connect!
-[Email](yuchenhou@ucsb.edu) | [Google Scholar](https://scholar.google.com/citations?user=9JT3J6gAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/yuchen-hou-b95083205/) 
+[Email](yuchenhou@ucsb.edu) | [Google Scholar](https://scholar.google.com/citations?user=9JT3J6gAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/yuchen-hou-b95083205/) | [Discord](https://discord.gg/cZ58bq8Y)
   
 <!--
 **subawocit/subawocit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
