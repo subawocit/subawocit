@@ -1,13 +1,12 @@
-## Hi, I'm Yuchen Hou 👋 
-
-🎓 Ph.D. Student in Computer Science @ Bionic Vision Lab, UC Santa Barbara  
-🔬 Studying Deep Learning, Data Science, and Computational Neuroscience
+## 👋 Hi, I'm Yuchen Hou  
+- Ph.D. Student in Computer Science @ Bionic Vision Lab, UC Santa Barbara  
+- Studying Deep Learning, Data Science, and Computational Neuroscience
 
 ### 📚 Selected Projects & Publications
-- 🐁 **Modeling Mouse Vision** – Proposed a deep learning framework to predict neural activity from behavior and video input. [[Paper]](https://arxiv.org/abs/xxxx.xxxxx)
-- 👀 **Retinal Prosthesis Perception Analysis** – Discovered novel perceptual effects in Argus II patients using statistical modeling. [[Paper]](https://arxiv.org/abs/xxxx.xxxxx)
-- 🧠 **Image Reconstruction from fMRI** (course project) – Designed architectures to reconstruct visual input from brain fMRI activity using diffusion models. [[Repo]](https://github.com/yourusername/video-diffusion)
-- 🛰️ **Pre-training Strategies on Landslides Detection** (course project) – Explored multiple pre-training strategies, including Knowledge Distillation and Masked Autoencoder, for landslides detection in satellite imagery. [[Repo]](https://github.com/yourusername/parking-detector)
+- **Modeling Mouse Vision** – Proposed a deep learning framework to predict neural activity from behavior and video input. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/31a19921acd38cdf7a8c86ec032cef2d-Abstract-Conference.html)
+- **Retinal Prosthesis Perception Analysis** – Discovered novel perceptual effects in Argus II patients using statistical modeling. [[Paper]](https://iopscience.iop.org/article/10.1088/1741-2552/ad31c4/meta)
+- **Image Reconstruction** (course project) – Designed architectures to reconstruct visual input from brain fMRI activity using diffusion models. [[Repo]](https://github.com/subawocit/cs292f)
+- **Landslides Detection** (course project) – Explored multiple pre-training strategies for landslides detection in satellite imagery. [[Repo]](https://github.com/subawocit/cs291k)
 
   
 <!--
