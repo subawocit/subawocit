@@ -3,11 +3,13 @@
 🎓 Ph.D. Student in Computer Science @ Bionic Vision Lab, UC Santa Barbara  
 🔬 Studying Deep Learning, Data Science, and Computational Neuroscience
 
-Check out my papers
-- 
-Check out my course projects
-- 
+### 📚 Selected Projects & Publications
+- 🐁 **Modeling Mouse Vision** – Proposed a deep learning framework to predict neural activity from behavior and video input. [[Paper]](https://arxiv.org/abs/xxxx.xxxxx)
+- 👀 **Retinal Prosthesis Perception Analysis** – Discovered novel perceptual effects in Argus II patients using statistical modeling. [[Paper]](https://arxiv.org/abs/xxxx.xxxxx)
+- 🧠 **Image Reconstruction from fMRI** (course project) – Designed architectures to reconstruct visual input from brain fMRI activity using diffusion models. [[Repo]](https://github.com/yourusername/video-diffusion)
+- 🛰️ **Pre-training Strategies on Landslides Detection** (course project) – Explored multiple pre-training strategies, including Knowledge Distillation and Masked Autoencoder, for landslides detection in satellite imagery. [[Repo]](https://github.com/yourusername/parking-detector)
 
+  
 <!--
 **subawocit/subawocit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
