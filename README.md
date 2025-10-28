@@ -7,7 +7,7 @@
 - [[Paper]](https://iopscience.iop.org/article/10.1088/1741-2552/ad31c4/meta) **Analyzing Retinal Prosthesis Perception** - Study electrically evoked visual perception
 - [[Project]](https://github.com/subawocit/cs292f) **Reconstructing Images from fMRI** - Decode stimuli from brain activity using latent diffusion models
 - [[Project]](https://github.com/subawocit/cs291k) **Detecting Landslides** - Explore pretraining strategies for satellite imagery landslides detection
-- [[Project]](https://robustforaging.github.io/) **Mouse vs AI** - Build RL models to outperform mice during visual perturbations
+- [[Project]](https://robustforaging.github.io/) **Mouse vs AI Competition** - Build RL models to outperform mice during visual perturbations
 
 ### ☕ Let's Connect!
 [Email](mailto:yuchenhou@ucsb.edu?subject=[GitHub]) | [Google Scholar](https://scholar.google.com/citations?user=9JT3J6gAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/yuchen-hou-b95083205/) 
