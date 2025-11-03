@@ -9,10 +9,10 @@
 - [[Abstract]](https://drive.google.com/file/d/1rmp6Gqd9zXdgXSdTXk_QavsQjpqYVJ85/view?usp=sharing) **Scene Understanding in Freely Moving mice** - Understand how behaviors shape visual processing
 - [[Project]](https://github.com/subawocit/cs292f) **Image Reconstruction from fMRI** - Decode stimuli from brain activity using latent diffusion models
 - [[Project]](https://github.com/subawocit/cs291k) **Landslides Detection** - Explore pretraining strategies for satellite imagery landslides detection
-- [[Project]](https://robustforaging.github.io/) **Mouse vs. AI: Visual Robustness Benchmark** - Compare biological and artificial vision robustness under perturbed environments
+- [[Project]](https://robustforaging.github.io/) **Mouse vs. AI: Visual Robustness Benchmark** - Compare biological and artificial vision robustness under perturbations.
 
 ### ☕ Let's Connect!
-[Email](mailto:yuchenhou@ucsb.edu?subject=[GitHub]) | [Google Scholar](https://scholar.google.com/citations?user=9JT3J6gAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/yuchen-hou-b95083205/) 
+[Google Scholar](https://scholar.google.com/citations?user=9JT3J6gAAAAJ&hl=en) | [Resume](https://drive.google.com/file/d/1W1lOVj5xu4dhp00LnN5pBHwgkniAkn5K/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/yuchen-hou-b95083205/) | [Email](mailto:yuchenhou@ucsb.edu?subject=[GitHub])
   
 <!--
 **subawocit/subawocit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
