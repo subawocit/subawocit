@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Yuchen  
 - Ph.D. Candidate in Computer Science @ Bionic Vision Lab, UC Santa Barbara  
-- Deep Learning, Computer Vision, and Computational Neuroscience
+- Multimodal Learning, Computer Vision, and Computational Neuroscience
 
 ### 🔬 Selected Papers, Abstracts, and Projects  
 - [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/31a19921acd38cdf7a8c86ec032cef2d-Abstract-Conference.html) **Modeling Mouse Vision** - Use multimodal deep learning to predict neural activity in freely moving mice
